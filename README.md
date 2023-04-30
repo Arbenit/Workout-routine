@@ -21,7 +21,11 @@
 - Skull crusher (EZ Bar)
 - Tricep Pulldown (Machine)
 - Dips (Assisted Machine)
-
+- 
+<details>
+  
+ <summary>Extra</summary>
+  
 ## Extra
 - Decline Bench Press (Barbell)
 - Tricep Extension (Machine)
@@ -29,7 +33,7 @@
   - Rope grip
 - Standing Skull crushers
   - I dont know what this is actually called but you lean backwards onto hold and then do skull crushers
-
+</details>
 
 # Leg Day
  - Low bar squat
