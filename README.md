@@ -31,8 +31,9 @@
 - Tricep Extension (Machine)
   - Small Bar
   - Rope grip
+  - One handed grip (without any attachment)
 - Standing Skull crushers
-  - I dont know what this is actually called but you lean backwards onto hold and then do skull crushers
+  - I dont know what this is actually called but you lean backwards onto something and then do skull crushers
 </details>
 
 # Leg Day
