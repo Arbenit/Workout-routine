@@ -2,16 +2,16 @@
 
 # Pull day
 - Rows (Machine)
-  - How To: Seated Low Row (LF Cable)
+  - [How To: Seated Low Row (LF Cable)](https://youtu.be/GZbfZ033f74?t=43)
 - Lat pull ups (Assisted Machine) 
 - Preacher curls (Standing)
-  - Preacher Curls | How To Perform It Correctly
+  - [Preacher Curls | How To Perform It Correctly](https://www.youtube.com/watch?v=fIWP-FRFNU0)
 - Incline Dumbbell Curl (While seated)
-  - How To: Seated Incline Dumbbell Bicep Curl
+  - [How To: Seated Incline Dumbbell Bicep Curl](https://youtu.be/soxrZlIl35U?t=36)
 - Cable Pullovers
-  - How to do a Cable Pullover for Wide Lats | Tiger Fitness	
+  - [How to do a Cable Pullover for Wide Lats | Tiger Fitness	](https://youtu.be/hKrPaheywB8)
 - Half Kneeling Single Arm 45 Degree Row (Machine Pulley)
-  - Half Kneeling Single Arm 45 Degree Row
+  - [Half Kneeling Single Arm 45 Degree Row](https://www.youtube.com/watch?v=KxFxFkJZZy8)
 - Back extension (Machine) 
 
 # Push Day
