@@ -21,10 +21,10 @@
 - Skull crusher (EZ Bar)
 - Tricep Pulldown (Machine)
 - Dips (Assisted Machine)
-- 
+
+
 <details>
-  
- <summary>Extra</summary>
+ <summary>Extra Exercises</summary>
   
 ## Extra
 - Decline Bench Press (Barbell)
